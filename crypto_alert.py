@@ -3,8 +3,8 @@ import pandas as pd
 from scipy import stats
 import time
 
-coin_api_key = 'D8BF3050-A2BB-47DD-81AB-E450A38EF329'
-slack_token = 'xoxp-1002458915078-987461154578-988791763203-5286a5dcb86aed3201cdba304ed067b0'
+coin_api_key = 'your api key'
+slack_token = 'your slack token'
 
 #define functions
 def coin_prices(crypto):
